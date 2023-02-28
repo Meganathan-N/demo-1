@@ -1,4 +1,5 @@
-  [{
+{
+  user:[{
     "id":01,
     "userName":"admin",
     "password":"admin",
@@ -10,4 +11,4 @@
     "password":"user",
     "userType":"user"
   }]
-
+}
