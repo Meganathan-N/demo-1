@@ -1,13 +1,11 @@
 [{
     "id":01,
     "userName":"admin",
-    "password":"admin",
     "userType":"admin"
   },
    {
     "id":02,
     "userName":"user",
-    "password":"user",
     "userType":"user"
   }]
 
